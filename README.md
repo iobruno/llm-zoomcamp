@@ -1,2 +1,1 @@
-# llm-zoomcamp
-LLM Zoomcamp with DataTalks.club
+# LLM Zoomcamp
